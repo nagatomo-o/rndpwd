@@ -1,0 +1,18 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+[Dd]ebug*/
+[Rr]elease*/
+
+# Visual Studio specific
+.vs/
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
